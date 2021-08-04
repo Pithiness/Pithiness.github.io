@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pithiness.github.io</id>
     <title>氧生态 · 应用中心</title>
-    <updated>2021-08-04T05:23:59.773Z</updated>
+    <updated>2021-08-04T10:51:34.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Pithiness.github.io"/>
     <link rel="self" href="https://Pithiness.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://Pithiness.github.io/images/avatar.png</logo>
     <icon>https://Pithiness.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 氧生态 · 应用中心</rights>
+    <entry>
+        <title type="html"><![CDATA[Ocean OS v1.2]]></title>
+        <id>https://Pithiness.github.io/post/ocean-os-v12/</id>
+        <link href="https://Pithiness.github.io/post/ocean-os-v12/">
+        </link>
+        <updated>2021-08-04T10:49:26.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="主要介绍">主要介绍</h2>
+<p>来自一个萌新初次尝试做的PPT系统系列</p>
+<h2 id="作者">作者</h2>
+<p>来自QQ的 Ascension233</p>
+<h2 id="应用审核状态">应用审核状态</h2>
+<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1628074215496.png" alt="" loading="lazy"></figure>
+<h2 id="下载">下载</h2>
+<p>阿里云盘：https://www.aliyundrive.com/s/PRsA3sCRthq</p>
+<h2 id="版本更新">版本更新</h2>
+<p>1.0（开发者没有留下更新日志诶）</p>
+<h2 id="所需权限">所需权限</h2>
+<p>未知</p>
+<h2 id="建议运行设备">建议运行设备</h2>
+<p>PowerPoint 2013~2021或Microsoft PowerPoint 365<br>
+WPS Office</p>
+<h2 id="反馈问题">反馈问题</h2>
+<p>QQ群：737196960</p>
+<h2 id="应用截图">应用截图</h2>
+<p><img src="https://Pithiness.github.io/post-images/1628074226506.png" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628074229382.png" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628074231346.png" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628074233718.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[氧生态 · 很高兴能与你见面 · 投稿说明]]></title>
         <id>https://Pithiness.github.io/post/yang-sheng-tai-hen-gao-xing-neng-yu-ni-jian-mian-tou-gao-shuo-ming/</id>
