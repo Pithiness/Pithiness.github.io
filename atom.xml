@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pithiness.github.io</id>
     <title>氧生态 · 应用中心</title>
-    <updated>2021-08-05T02:29:51.546Z</updated>
+    <updated>2021-08-05T05:25:50.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Pithiness.github.io"/>
     <link rel="self" href="https://Pithiness.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://Pithiness.github.io/images/avatar.png</logo>
     <icon>https://Pithiness.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 氧生态 · 应用中心</rights>
+    <entry>
+        <title type="html"><![CDATA[Linnovate OS]]></title>
+        <id>https://Pithiness.github.io/post/linnovate-os-0.9/</id>
+        <link href="https://Pithiness.github.io/post/linnovate-os-0.9/">
+        </link>
+        <updated>2021-08-05T05:23:11.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="主要介绍">主要介绍</h2>
+<p>一个小白做的PPT OS,还未完善，有许多特性（（（</p>
+<h2 id="作者">作者</h2>
+<p>Chara(Augustine)</p>
+<h2 id="应用审核状态">应用审核状态</h2>
+<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1628141024813.png" alt="" loading="lazy"></figure>
+<h2 id="下载">下载</h2>
+<p>阿里云盘：https://www.aliyundrive.com/s/Z28AuRkHDhm</p>
+<h2 id="版本更新">版本更新</h2>
+<p>0.9 Beta Pre3（开发者没有留下更新日志诶）</p>
+<h2 id="所需权限">所需权限</h2>
+<p>宏</p>
+<h2 id="建议运行设备">建议运行设备</h2>
+<p>PowerPoint 2013~2021<br>
+WPS Office</p>
+<h2 id="反馈问题">反馈问题</h2>
+<p>QQ 2049804017</p>
+<h2 id="应用截图">应用截图</h2>
+<p><img src="https://Pithiness.github.io/post-images/1628141034437.jpg" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628141039859.jpg" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628141056467.jpg" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628141062516.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qiao UI]]></title>
         <id>https://Pithiness.github.io/post/qiao-ui-dev/</id>
