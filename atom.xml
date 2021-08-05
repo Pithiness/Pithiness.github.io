@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pithiness.github.io</id>
     <title>氧生态 · 应用中心</title>
-    <updated>2021-08-04T10:53:58.168Z</updated>
+    <updated>2021-08-05T02:29:51.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Pithiness.github.io"/>
     <link rel="self" href="https://Pithiness.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://Pithiness.github.io/images/avatar.png</logo>
     <icon>https://Pithiness.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 氧生态 · 应用中心</rights>
+    <entry>
+        <title type="html"><![CDATA[Qiao UI]]></title>
+        <id>https://Pithiness.github.io/post/qiao-ui-dev/</id>
+        <link href="https://Pithiness.github.io/post/qiao-ui-dev/">
+        </link>
+        <updated>2021-08-05T02:26:45.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="主要介绍">主要介绍</h2>
+<p>QiaoUI船新版本即将更新啦！ 这一次，从‘新’开始。全新的UI设计，更好的动画效果，等你来体验！</p>
+<h2 id="作者">作者</h2>
+<p>来自QQ的 你的秋乔呐</p>
+<h2 id="应用审核状态">应用审核状态</h2>
+<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1628130439538.png" alt="" loading="lazy"></figure>
+<h2 id="下载">下载</h2>
+<p>加入QQ群聊：737196960（开发者留下的地址）</p>
+<h2 id="版本更新">版本更新</h2>
+<p>Dev.（开发者没有留下更新日志诶）</p>
+<h2 id="所需权限">所需权限</h2>
+<p>未知</p>
+<h2 id="建议运行设备">建议运行设备</h2>
+<p>PowerPoint 2013~2021或Microsoft PowerPoint 365<br>
+WPS Office</p>
+<h2 id="反馈问题">反馈问题</h2>
+<p>加入QQ群聊：737196960</p>
+<h2 id="应用截图">应用截图</h2>
+<p><img src="https://Pithiness.github.io/post-images/1628130493719.png" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628130497011.png" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628130499908.png" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628130502461.png" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1628130505444.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ocean OS v1.2]]></title>
         <id>https://Pithiness.github.io/post/ocean-os-v12/</id>
