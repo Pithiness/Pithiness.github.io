@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pithiness.github.io</id>
     <title>氧生态 · 应用中心</title>
-    <updated>2021-08-05T05:45:23.705Z</updated>
+    <updated>2021-08-05T10:25:46.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Pithiness.github.io"/>
     <link rel="self" href="https://Pithiness.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://Pithiness.github.io/images/avatar.png</logo>
     <icon>https://Pithiness.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 氧生态 · 应用中心</rights>
+    <entry>
+        <title type="html"><![CDATA[预约 · Gemini UI ]]></title>
+        <id>https://Pithiness.github.io/post/ad-gemini-ui/</id>
+        <link href="https://Pithiness.github.io/post/ad-gemini-ui/">
+        </link>
+        <updated>2021-08-05T10:24:34.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="预告-主要介绍">预告 · 主要介绍</h2>
+<p>Gemini UI 是由 Lipus Studio 制作的、基于 Microsoft PowerPoint 的仿操作系统。系统 UI 使用以 Simple、Smooth 为设计核心的 ORB Design 设计语言，界面好看、简洁，动画以平滑和流畅为主。<br>
+“不搞花里胡哨的东西、削减华而不实的功能、让系统中的各个应用程序都有其用。”，是系统的一大特点，也是我们在 PowerPoint 的诸多限制中，对系统制作的要求。</p>
+<p>目前系统的 Beta Preview 仍在制作中，10 月初旬即刻放送，明年将放送正式版，敬请期待！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linnovate OS]]></title>
         <id>https://Pithiness.github.io/post/linnovate-os-0.9/</id>
