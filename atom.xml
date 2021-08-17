@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pithiness.github.io</id>
     <title>氧生态 · 应用中心</title>
-    <updated>2021-08-05T10:44:53.560Z</updated>
+    <updated>2021-08-17T03:16:21.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Pithiness.github.io"/>
     <link rel="self" href="https://Pithiness.github.io/atom.xml"/>
@@ -11,13 +11,84 @@
     <icon>https://Pithiness.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 氧生态 · 应用中心</rights>
     <entry>
+        <title type="html"><![CDATA[魔改旋转动画 ｜ 安逸]]></title>
+        <id>https://Pithiness.github.io/post/anyi-donghua-class-one/</id>
+        <link href="https://Pithiness.github.io/post/anyi-donghua-class-one/">
+        </link>
+        <updated>2021-08-17T03:07:02.000Z</updated>
+        <content type="html"><![CDATA[<p>感谢你来到这里，这里是氧生态-安逸动画小课堂（魔改旋转动画）</p>
+<h2 id="作者">作者</h2>
+<ul>
+<li>安逸PPT</li>
+</ul>
+<h2 id="绿色应用公约状态">绿色应用公约状态</h2>
+<pre><code>已通过 · 安全
+</code></pre>
+<pre><code>该应用已经通过O2安全应用投放审核，但无法保证在所有设备上都可安全运行
+</code></pre>
+<h2 id="下载">下载</h2>
+<p>阿里云盘（文件）：https://www.aliyundrive.com/s/x4JwzQaGFFN</p>
+<p>阿里云盘（视频）：https://www.aliyundrive.com/s/WwdVj7QrPPT</p>
+<h2 id="版本更新">版本更新</h2>
+<p>Class 1</p>
+<h2 id="所需权限">所需权限</h2>
+<ul>
+<li>未知</li>
+</ul>
+<h2 id="建议运行设备">建议运行设备</h2>
+<ul>
+<li>PowerPoint 2013 ~ 2021</li>
+<li>WPS Office (目前为止没有测试，或许可行)</li>
+</ul>
+<h2 id="反馈问题">反馈问题</h2>
+<p>安逸的PPT交流②群：906379536</p>
+<h2 id="开发者留下的的话">开发者留下的的话</h2>
+<p>Hello~我是安逸<br>
+B站UP：https://space.bilibili.com/225543640<br>
+求点赞与投币<br>
+如果你也喜欢PPT动画，或者对PPT游戏感兴趣可以加入交流群一起玩耍~<br>
+QQ群：906379536</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解压方块]]></title>
+        <id>https://Pithiness.github.io/post/jie-ya-fang-kuai/</id>
+        <link href="https://Pithiness.github.io/post/jie-ya-fang-kuai/">
+        </link>
+        <updated>2021-08-17T02:58:19.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="主要介绍">主要介绍</h2>
+<p>一个PPT萌新的第一个萌新作品。界面上有9个按钮，你可以按他来解压，</p>
+<h2 id="作者">作者</h2>
+<p>芝士面条CheeseNoodle</p>
+<h2 id="应用审核状态">应用审核状态</h2>
+<pre><code>已通过 · 安全
+</code></pre>
+<pre><code>该应用已经通过O2安全应用投放审核，但无法保证在所有设备上都可安全运行
+</code></pre>
+<h2 id="下载">下载</h2>
+<p>阿里云盘：https://www.aliyundrive.com/s/sqqqtQhid6G</p>
+<p>*下载后，请将文件解压后放在PPT系统目录下的Apps文件夹</p>
+<h2 id="版本更新">版本更新</h2>
+<p>1.0（开发者没有留下更新日志诶）</p>
+<h2 id="所需权限">所需权限</h2>
+<p>无</p>
+<h2 id="建议运行设备">建议运行设备</h2>
+<p>PowerPoint 2013~2021<br>
+WPS Office</p>
+<h2 id="反馈问题">反馈问题</h2>
+<p>开发者没有留下反馈通道</p>
+<h2 id="应用截图">应用截图</h2>
+<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1629169123299.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[预约 · Gemini UI ]]></title>
         <id>https://Pithiness.github.io/post/ad-gemini-ui/</id>
         <link href="https://Pithiness.github.io/post/ad-gemini-ui/">
         </link>
         <updated>2021-08-05T10:24:34.000Z</updated>
         <content type="html"><![CDATA[<h2 id="预告-主要介绍">预告 · 主要介绍</h2>
-<p>Gemini UI 是由 Lipus Studio 制作的、基于 Microsoft PowerPoint 的仿操作系统。系统 UI 使用以 Simple、Smooth 为设计核心的 ORB Design 设计语言，界面好看、简洁，动画以平滑和流畅为主。<br>
+<p>Gemini UI 是由 Lipus Studio 制作的、基于 Microsoft PowerPoint 的仿操作系统。系统 UI 使用以 Simple、Smooth 为设计核心的 G-Level Design 设计语言，界面好看、简洁，动画以平滑和流畅为主。<br>
 “不搞花里胡哨的东西、削减华而不实的功能、让系统中的各个应用程序都有其用。”，是系统的一大特点，也是我们在 PowerPoint 的诸多限制中，对系统制作的要求。</p>
 <p>目前系统的 Beta Preview 仍在制作中，10 月初旬即刻放送，明年将放送正式版，敬请期待！</p>
 ]]></content>
@@ -33,7 +104,8 @@
 <h2 id="作者">作者</h2>
 <p>Chara(Augustine)</p>
 <h2 id="应用审核状态">应用审核状态</h2>
-<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1628141024813.png" alt="" loading="lazy"></figure>
+<p><code>已通过 · 安全</code></p>
+<p><code>该应用已经通过O2安全应用投放审核，但无法保证在所有设备上都可安全运行</code></p>
 <h2 id="下载">下载</h2>
 <p>阿里云盘：https://www.aliyundrive.com/s/Z28AuRkHDhm</p>
 <h2 id="版本更新">版本更新</h2>
@@ -63,7 +135,8 @@ WPS Office</p>
 <h2 id="作者">作者</h2>
 <p>来自QQ的 你的秋乔呐</p>
 <h2 id="应用审核状态">应用审核状态</h2>
-<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1628130439538.png" alt="" loading="lazy"></figure>
+<p><code>已通过 · 安全</code></p>
+<p><code>该应用已经通过O2安全应用投放审核，但无法保证在所有设备上都可安全运行</code></p>
 <h2 id="下载">下载</h2>
 <p>加入QQ群聊：737196960（开发者留下的地址）</p>
 <h2 id="版本更新">版本更新</h2>
@@ -94,7 +167,8 @@ WPS Office</p>
 <h2 id="作者">作者</h2>
 <p>来自QQ的 Ascension233</p>
 <h2 id="应用审核状态">应用审核状态</h2>
-<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1628074215496.png" alt="" loading="lazy"></figure>
+<p><code>已通过 · 安全</code></p>
+<p><code>该应用已经通过O2安全应用投放审核，但无法保证在所有设备上都可安全运行</code></p>
 <h2 id="下载">下载</h2>
 <p>阿里云盘：https://www.aliyundrive.com/s/PRsA3sCRthq</p>
 <h2 id="版本更新">版本更新</h2>
@@ -145,7 +219,8 @@ WPS Office</p>
 <h2 id="作者">作者</h2>
 <p>安逸PPT</p>
 <h2 id="应用审核状态">应用审核状态</h2>
-<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1628049183738.png" alt="" loading="lazy"></figure>
+<p><code>已通过 · 安全</code></p>
+<p><code>该应用已经通过O2安全应用投放审核，但无法保证在所有设备上都可安全运行</code></p>
 <h2 id="下载">下载</h2>
 <p>曲奇云盘：https://quqi.gblhgk.com/s/356133/9Pix2cwRXFsF2Rur</p>
 <p>*下载后，请将文件解压后放在PPT系统目录下的Apps文件夹</p>
@@ -181,7 +256,8 @@ WPS Office</p>
 <li>安逸PPT</li>
 </ul>
 <h2 id="绿色应用公约状态">绿色应用公约状态</h2>
-<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1628049054304.png" alt="" loading="lazy"></figure>
+<p><code>已通过 · 安全</code></p>
+<p><code>该应用已经通过O2安全应用投放审核，但无法保证在所有设备上都可安全运行</code></p>
 <h2 id="下载">下载</h2>
 <p>百毒云盘：<a href="https://pan.baidu.com/s/1JwTZAJX3amoM_i4k3gHIQw">点击进入下载 密码：anyi</a><br>
 腾讯微云：<a href="https://share.weiyun.com/zNpCLphU">点击进入下载</a></p>
@@ -205,7 +281,7 @@ B站UP：https://space.bilibili.com/225543640<br>
 如果你也喜欢PPT动画，或者对PPT游戏感兴趣可以加入交流群一起玩耍~<br>
 QQ群：906379536</p>
 <h2 id="应用截图">应用截图</h2>
-<figure data-type="image" tabindex="2"><img src="https://Pithiness.github.io/post-images/1628049124425.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1628049124425.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>

@@ -1,72 +1,84 @@
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>氧生态 · 应用中心</title>
-<link rel="shortcut icon" href="https://Pithiness.github.io/favicon.ico">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
-<link rel="stylesheet" href="https://Pithiness.github.io/media/css/tailwind.css">
-<link rel="stylesheet" href="https://Pithiness.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="氧生态 · 应用中心 - Atom Feed" href="https://Pithiness.github.io/atom.xml">
-
-    
-
-  <meta name="description" content="Hey! Here is the O2 ecology!" />
+<!-- 必要参数 -->
+<meta charset="utf-8"/>
+<title>安逸PPT - 氧生态 · 应用中心</title>
+<meta name="keywords" content="关键词"/>
+<meta name="description" content="简述"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable:no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link rel="shortcut icon" href="favicon.ico">
+<!-- CSS -->
+<link rel="stylesheet" href="https://Pithiness.github.io/media/css/mdui.min.css">
+<link rel="stylesheet" href="https://Pithiness.github.io/media/css/modify.css">
 </head>
 <body>
-  <div class="antialiased flex flex-col min-h-screen" id="app">
-
-    <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
-  <div class="flex justify-end px-4">
-    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
-      <i class="ri-close-line" v-show="showMenu"></i>
-      <i class="ri-menu-3-line" v-show="!showMenu"></i>
+<body class="mdui-appbar-with-toolbar mdui-theme-primary-blue-grey mdui-theme-accent-blue mdui-theme-layout-dark">
+<header role="banner">
+    <div class="mdui-appbar mdui-appbar-fixed mdui-appbar-scroll-hide mdui-shadow-0">
+        <div class="mdui-toolbar">
+            <button class="mdui-btn mdui-btn-icon" id="menu" mdui-drawer="{target:'#drawer',overlay:true,swipe:true}"><i class="mdui-icon material-icons">menu</i></button>
+            <a href="https://Pithiness.github.io" class="mdui-typo-headline">氧生态 · 应用中心</a>
+            <div class="mdui-toolbar-spacer"></div>
+            <button class="mdui-btn mdui-btn-icon" mdui-tooltip="{content: '深色样式切换', position: 'left'}" id="DarkStyle"><i class="mdui-icon material-icons">brightness_4</i></button>
+        </div>
     </div>
-  </div>
-  <nav class="max-w-4xl w-full mx-auto text-center flex flex-col md:flex-row justify-center md:block" :class="`${ showMenu ? 'block' : 'hidden' }`">
-    
-      <a href="/" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        氧生态 · 应用中心
-      </a>
-    
-      <a href="https://Pithiness.github.io/post/yang-sheng-tai-lu-se-shen-he-ji-hua" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        氧生态绿色审核计划
-      </a>
-    
-      <a href="https://Pithiness.github.io/tags" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        所有分类
-      </a>
-    
-      <a href="https://Pithiness.github.io/archives" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        所有应用
-      </a>
-    
-    <a href="https://Pithiness.github.io/atom.xml" target="_blank" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-      RSS
-    </a>
-  </nav>
-</div>
+</header>
 
-    <div class="max-w-4xl w-full mx-auto pt-32">
-      <h1 class="text-2xl font-bold pb-8 flex justify-center items-center">
-        <i class="ri-hashtag"></i>
-        安逸PPT
-      </h1>
-      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
+<nav id="drawer" class="mdui-drawer mdui-drawer-full-height mdui-drawer-close">
+    <ul class="mdui-list">
+        <a href="/" class="menu"><li class="mdui-list-item mdui-ripple">氧生态 · 应用中心</li></a>
+        <a href="https://Pithiness.github.io/post/yang-sheng-tai-lu-se-shen-he-ji-hua" class="menu"><li class="mdui-list-item mdui-ripple">氧生态绿色审核计划</li></a>
+        <a href="https://Pithiness.github.io/tags" class="menu"><li class="mdui-list-item mdui-ripple">所有分类</li></a>
+        <a href="https://Pithiness.github.io/archives" class="menu"><li class="mdui-list-item mdui-ripple">所有应用</li></a>
         
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+        <a href="https://github.com/CPlayer-CN/gridea-theme-cplayer-material" class="spread"><li class="mdui-list-item mdui-ripple">主题主页</li></a>
+    </ul>
+</nav>
+
+
+<main class="mdui-container mdui-typo mdui-m-t-2">
     
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://Pithiness.github.io/post/shi-nan-ren-jiu-ting-30-miao/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          是男人就挺30秒
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2021-08-04</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        主要介绍
+    <section class="mdui-col mdui-m-b-2">
+        <div class="mdui-card">
+            
+            <div class="mdui-card-media">
+                <img src="https://Pithiness.github.io/post-images/anyi-donghua-class-one.png" onerror="this.src='https://Pithiness.github.io/post-images/anyi-donghua-class-one.png';">
+                
+            </div>
+            
+            <div class="mdui-card-primary">
+                <div class="mdui-card-primary-title"><a href="https://Pithiness.github.io/post/anyi-donghua-class-one/">魔改旋转动画 ｜ 安逸</a></div>
+                <div class="mdui-card-primary-subtitle">2021-08-17</div>
+            </div>
+            <div class="mdui-card-content">感谢你来到这里，这里是氧生态-安逸动画小课堂（魔改旋转动画）
+作者
+
+安逸PPT
+
+绿色应用公约状态
+已通过 · 安全
+
+该应用已经通过O2安全应用投放审核，但无法保证在所有设备上都可安全运行
+
+下载
+阿里云盘（文件）：https://ww...</div>
+        </div>
+    </section>
+
+    <section class="mdui-col mdui-m-b-2">
+        <div class="mdui-card">
+            
+            <div class="mdui-card-media">
+                <img src="https://Pithiness.github.io/post-images/shi-nan-ren-jiu-ting-30-miao.png" onerror="this.src='https://Pithiness.github.io/post-images/shi-nan-ren-jiu-ting-30-miao.png';">
+                
+            </div>
+            
+            <div class="mdui-card-primary">
+                <div class="mdui-card-primary-title"><a href="https://Pithiness.github.io/post/shi-nan-ren-jiu-ting-30-miao/">是男人就挺30秒</a></div>
+                <div class="mdui-card-primary-subtitle">2021-08-04</div>
+            </div>
+            <div class="mdui-card-content">主要介绍
 在游戏开始的前三秒，你必须进入这个绿色圈内
 然后绿色的圈会变为黑色，你会面临炮弹攻击，且运动范围被限制在圈内
 触碰到一切黑色物体，将会直接结束游戏
@@ -74,54 +86,45 @@
 作者
 安逸PPT
 应用审核状态
+已通过 · 安全
+该应用已...</div>
+        </div>
+    </section>
 
-下载
-曲奇云盘：http...
-      </div>
-      <a href="https://Pithiness.github.io/post/shi-nan-ren-jiu-ting-30-miao/" class="btn">
-        阅读更多
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://Pithiness.github.io/post-images/shi-nan-ren-jiu-ting-30-miao.png" alt="是男人就挺30秒">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://Pithiness.github.io/post/shan-liang-de-yong-shi-yu-hei-an-mo-wang-beta1/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          善良的勇士与黑暗魔王 Beta1
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2021-08-04</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        故事发生在一个遥远的国度
+    <section class="mdui-col mdui-m-b-2">
+        <div class="mdui-card">
+            
+            <div class="mdui-card-media">
+                <img src="https://Pithiness.github.io/post-images/shan-liang-de-yong-shi-yu-hei-an-mo-wang-beta1.png" onerror="this.src='https://Pithiness.github.io/post-images/shan-liang-de-yong-shi-yu-hei-an-mo-wang-beta1.png';">
+                
+            </div>
+            
+            <div class="mdui-card-primary">
+                <div class="mdui-card-primary-title"><a href="https://Pithiness.github.io/post/shan-liang-de-yong-shi-yu-hei-an-mo-wang-beta1/">善良的勇士与黑暗魔王 Beta1</a></div>
+                <div class="mdui-card-primary-subtitle">2021-08-04</div>
+            </div>
+            <div class="mdui-card-content">故事发生在一个遥远的国度
 人民安居乐业，日子蒸蒸日上，然而一个机密却在国家高层中被讨论着...
 这个国家的居民正在接二连三的消失！
 一位善良的勇士发现了村庄失踪人口的“真相”，竟然是邪恶的黑暗魔王。
-于是他带上了最好的剑，势必将黑暗魔王斩于...
-      </div>
-      <a href="https://Pithiness.github.io/post/shan-liang-de-yong-shi-yu-hei-an-mo-wang-beta1/" class="btn">
-        阅读更多
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://Pithiness.github.io/post-images/shan-liang-de-yong-shi-yu-hei-an-mo-wang-beta1.png" alt="善良的勇士与黑暗魔王 Beta1">
-    
-  </div>
-  
-      </div>
+于是他带上了最好的剑，势必将黑暗魔王斩于...</div>
+        </div>
+    </section>
 
-      
-      <footer class="py-12 text-center px-4 md:px-0" v-pre>
-  Powered by <a href="https://jessegary.github.io/>Huangder</a>
-</footer>
+</main>
 
-    </div>
-  </div>
-  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-  <script src="https://Pithiness.github.io/media/scripts/main.js"></script>
+<nav class="mdui-container mdui-m-t-2 mdui-m-b-2">
+    
+    
+</nav>
+
+<div class="mdui-m-t-2 mdui-text-center mdui-typo">
+    氧生态 ｜ Huangder
+</div>
+
+<script src="https://Pithiness.github.io/media/js/jquery.min.js"></script>
+<script src="https://Pithiness.github.io/media/js/mdui.min.js"></script>
+<script src="https://Pithiness.github.io/media/js/modify.js"></script>
+
 </body>
 </html>
