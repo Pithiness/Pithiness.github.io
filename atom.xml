@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pithiness.github.io</id>
     <title>氧生态 · 应用中心</title>
-    <updated>2021-08-17T04:07:54.692Z</updated>
+    <updated>2021-08-25T03:56:41.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Pithiness.github.io"/>
     <link rel="self" href="https://Pithiness.github.io/atom.xml"/>
@@ -10,6 +10,56 @@
     <logo>https://Pithiness.github.io/images/avatar.png</logo>
     <icon>https://Pithiness.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 氧生态 · 应用中心</rights>
+    <entry>
+        <title type="html"><![CDATA[「正式发布」Gemini UI 1.0]]></title>
+        <id>https://Pithiness.github.io/post/gemini-ui/</id>
+        <link href="https://Pithiness.github.io/post/gemini-ui/">
+        </link>
+        <updated>2021-08-25T03:53:42.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="主要介绍">主要介绍</h2>
+<p>Gemini UI 1.0 目前处于 Beta Preview 阶段，<br>
+还有很多的缺陷（多到我讲不出来）<br>
+还有以下功能即将于之后的版本推出或修复（见下方版本更新）</p>
+<h2 id="作者">作者</h2>
+<p>戌犬朱狼 | Gemini UI</p>
+<h2 id="应用审核状态">应用审核状态</h2>
+<pre><code>已通过 · 安全
+</code></pre>
+<pre><code>该应用已经通过O2安全应用投放审核，但无法保证在所有设备上都可安全运行
+</code></pre>
+<h2 id="下载">下载</h2>
+<p>天翼云盘：https://cloud.189.cn/web/share?code=a6jiuiyE7Rjm</p>
+<h2 id="版本更新">版本更新</h2>
+<p>Beta 1.0</p>
+<pre><code>即将：新增功能、UI 设计：
+1、应用程序模糊 UI
+2、暗黑模式
+3、记事本
+4、动态壁纸
+5、……
+修复：
+1、应用程序平滑过渡有无问题
+2、安装界面中超链接鼠标悬浮效果问题
+3、系统模糊部分浅色透明度问题
+4、开始菜单文字、图标颜色统一问题
+5、应用图标设计问题
+6、……
+</code></pre>
+<h2 id="所需权限">所需权限</h2>
+<p>无</p>
+<h2 id="建议运行设备">建议运行设备</h2>
+<p>PowerPoint 2013~2021<br>
+WPS Office</p>
+<h2 id="反馈问题">反馈问题</h2>
+<p>开发者没有留下反馈通道</p>
+<h2 id="应用截图">应用截图</h2>
+<p><img src="https://Pithiness.github.io/post-images/1629863671597.jpg" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1629863678833.jpg" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1629863683154.jpg" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1629863687069.png" alt="" loading="lazy"><br>
+<img src="https://Pithiness.github.io/post-images/1629863690911.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[魔改旋转动画 ｜ 安逸]]></title>
         <id>https://Pithiness.github.io/post/anyi-donghua-class-one/</id>
@@ -79,18 +129,6 @@ WPS Office</p>
 <p>开发者没有留下反馈通道</p>
 <h2 id="应用截图">应用截图</h2>
 <figure data-type="image" tabindex="1"><img src="https://Pithiness.github.io/post-images/1629169123299.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预约 · Gemini UI ]]></title>
-        <id>https://Pithiness.github.io/post/ad-gemini-ui/</id>
-        <link href="https://Pithiness.github.io/post/ad-gemini-ui/">
-        </link>
-        <updated>2021-08-05T10:24:34.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="预告-主要介绍">预告 · 主要介绍</h2>
-<p>Gemini UI 是由 Lipus Studio 制作的、基于 Microsoft PowerPoint 的仿操作系统。系统 UI 使用以 Simple、Smooth 为设计核心的 G-Level Design 设计语言，界面好看、简洁，动画以平滑和流畅为主。<br>
-“不搞花里胡哨的东西、削减华而不实的功能、让系统中的各个应用程序都有其用。”，是系统的一大特点，也是我们在 PowerPoint 的诸多限制中，对系统制作的要求。</p>
-<p>目前系统的 Beta Preview 仍在制作中，10 月初旬即刻放送，明年将放送正式版，敬请期待！</p>
 ]]></content>
     </entry>
     <entry>
