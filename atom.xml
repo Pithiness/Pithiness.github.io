@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pithiness.github.io</id>
     <title>氧生态 · 应用中心</title>
-    <updated>2021-08-25T04:25:09.542Z</updated>
+    <updated>2021-08-25T04:42:00.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Pithiness.github.io"/>
     <link rel="self" href="https://Pithiness.github.io/atom.xml"/>
@@ -31,7 +31,7 @@
 <p>天翼云盘：https://cloud.189.cn/web/share?code=a6jiuiyE7Rjm</p>
 <h2 id="版本更新">版本更新</h2>
 <p>Beta 1.0</p>
-<pre><code>即将：新增功能、UI 设计：
+<pre><code>下版本即将：新增功能、UI 设计：
 1、应用程序模糊 UI
 2、暗黑模式
 3、记事本
